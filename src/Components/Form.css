@@ -1,0 +1,27 @@
+.form {
+  padding: 20px;
+}
+
+.titleContact {
+  margin-bottom: 27px;
+}
+
+.inputContact {
+  margin-bottom: 11px;
+}
+
+.form-label {
+  margin-bottom: 1.5rem;
+}
+
+.DropContact {
+  margin-bottom: 10px;
+}
+
+.ButtonCSS {
+  margin-bottom: 100px;
+}
+
+.error-text {
+  color: #b40e0e;
+}
